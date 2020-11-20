@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Nahtan Maton
-tagline:             A Moderately Okay Data Science Blog
+title:               Nathan Maton
+tagline:             MIT Media Lab Portfolio
 url:                 http://nathanmaton.github.io
 paginate:            2
 baseurl:             ""
