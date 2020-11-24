@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Nahtan Maton
-tagline:             A Moderately Okay Data Science Blog
+title:               Nathan Maton - Data Scientist, Outdoor Lover
+# tagline:             Portfolio
 url:                 http://nathanmaton.github.io
 paginate:            2
 baseurl:             ""
@@ -33,6 +33,6 @@ gems:
 
 # Page List
 pages_list:
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/index.html'
+  # About: '/about'
+  # Archive: '/archive'
+  # Feed: '/index.html'
