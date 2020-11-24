@@ -3,13 +3,20 @@ layout: post
 title: Forecasting Member Outcomes at Omada
 ---
 
-Forecasting Member Outcomes at Omada
------
-
 ![data_processing](/images/forecasting_data_process.png)
 
-In my current role as a researcher at Omada, a digital chronic health management company, I worked to forecast 
-our pre-diabetic member's outcomes. This task is challenging given the unpredictability 
+## Context
+
+Omada is a digital chronic health management company that 
+focuses on helping people learn healthy life behaviors. Its largest product helps 
+prevent diabetes by identifying people who are pre-diabetic and helping them change 
+their lifestyle.
+
+## Project
+
+
+In my current role as a researcher at Omada, I worked to forecast our pre-diabetic member's outcomes. 
+This task is challenging given the unpredictability 
 of behavior change but critical because our business model charges 
 people based on their health outcomes. Due to the project constraints we ended up
 building a powerful but complex tool augmenting data we extract into our data warehouse, 
