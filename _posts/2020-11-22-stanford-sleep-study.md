@@ -26,6 +26,6 @@ heart rate monitors, and facial movement detection sensors.
 
 * This was a great experience learning about hardware and sensor data as well 
 as protocols to test affect like quickly changing images.
-* There are major opportuniites for making it easier to integrate
+* There are major opportunities for making it easier to integrate
 hardware and software together given the desire of researchers and the current 
 level of effort it takes to run these projects. 

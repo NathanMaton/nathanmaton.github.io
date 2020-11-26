@@ -6,11 +6,10 @@ title: Resync Podcast
 ## Context
 
 I'm very curious and love asking questions. As I thought about how to 
-use those strengths I realized podcasting could be a great fit. I bootstrapped
-two podcasts. The second one ReSync, highlights how one's personal
-growth could lead to large societal impact. Guests all had a period where they 
-summoned the courage to face inner challenges and leveraged that to shift or amplify their 
-careers.
+use those strengths I realized podcasting could be a great fit. My show ReSync
+highlights how one's personal growth could lead to large societal impact.
+Guests all had a period where they summoned the courage to face inner challenges
+and leveraged that to shift or amplify their careers.
 
 ## Project
 
