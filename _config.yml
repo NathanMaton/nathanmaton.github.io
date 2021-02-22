@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               Nathan Maton - Data Scientist, Outdoor Lover
+title:               Nathan Maton - Coach, Data Scientist, Outdoor Lover
 # tagline:             Portfolio
 url:                 http://nathanmaton.github.io
 paginate:            2
@@ -33,6 +33,8 @@ gems:
 
 # Page List
 pages_list:
-  # About: '/about'
+  Coaching: '/coaching'
+  About: '/about'
+  Portfolio: '/portfolio'
   # Archive: '/archive'
   # Feed: '/index.html'
