@@ -5,9 +5,7 @@ title: Coaching
 
 <img src="/images/nathanm.jpg" alt="Photo of me.">
 
-## Coaching
-
-I now coach to help others to learn about accepting and using all of their emotions, not just their favorite ones. There are incredible people out there doing incredible things who haven’t yet seen how much more powerful they can be when they show up with their whole self. 
+I coach to help others to learn about accepting and using all of their emotions, not just their favorite ones. There are incredible people out there doing incredible things who haven’t yet seen how much more powerful they can be when they show up with their whole self. 
 
 * Are you ready to lead your organization during the most challenging climates in history?
 * Are you privately unsure of how to innovate and evolve your organization?
