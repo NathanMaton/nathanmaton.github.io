@@ -5,13 +5,13 @@ title: Coaching
 
 <img src="/images/nathanm.jpg" alt="Photo of me.">
 
-I coach to help others to learn about accepting and using all of their emotions, not just their favorite ones. There are incredible people out there doing incredible things who haven’t yet seen how much more powerful they can be when they show up with their whole self. 
+I get excited helping people excel. That typically means figuring out blockers in their strengths and how to do some internal shifts to supercharge them.
 
-* Are you ready to lead your organization during the most challenging climates in history?
 * Are you privately unsure of how to innovate and evolve your organization?
-* Are you seeking an experienced professional who can help you break down the barriers to your success?
+* Are you seeking help breaking down the barriers to your success?
 * Are you struggling with recent feedback that suggests ineffective leadership?
 * Do you inspire yourself and others to reach their highest potential?
+* Are you ready to lead your organization during the most challenging climates in history?
 
 ## Take the next step: Lead with purpose
 
