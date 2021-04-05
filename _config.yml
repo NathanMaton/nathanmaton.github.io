@@ -35,6 +35,9 @@ gems:
 pages_list:
   Coaching: '/coaching'
   About: '/about'
+  Family band: '/familyband'
+  Climbing: '/climbing'
+  My better half: '/jane'
   # Portfolio: '/portfolio'
   # Archive: '/archive'
   # Feed: '/index.html'
