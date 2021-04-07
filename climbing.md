@@ -3,7 +3,7 @@ layout: page
 title: My climbing
 ---
 
-I started climging in middle school with my buddy <a href='https://sportrock.com/leadership/'>
+I started climbing in middle school with my buddy <a href='https://sportrock.com/leadership/'>
 Sean</a>. We eventually skipped 2 weeks in our senior year, flew to California, hitchhiked to Yosemite 
 and had a blast. He kept climbing ever since and now runs a gym in the DC metro area.
 
