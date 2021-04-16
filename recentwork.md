@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Portfolio
+title: Recent work
 ---
 
-Portfolio:
+Recent work:
 
 <ul>
 {% for post in site.posts %}
