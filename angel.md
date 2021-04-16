@@ -25,5 +25,7 @@ Here are a few I can disclose:
   <li><a href="https://www.openinvest.com/">Open Invest early advisor</a></li>
   <li><a href="https://atomlimbs.com/">Atom Limbs</a></li>
   <li><a href="https://gumroad.com/">GumRoad</a></li>
-
+  <li><a href="https://www.foresightmentalhealth.com/">Foresight</a></li>
+  <li><a href="https://livnao.com/">LiveNao</a></li>
+  <li><a href="https://www.atai.life/">ATAI Life Sciences</a></li>
 </ul>
