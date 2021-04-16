@@ -7,7 +7,7 @@ title: Angel Investing
 Many of my Angel Investment deals I can't disclose yet. I can share
 that I started in 2016 and ramped up in 2020, and am invested in ~30
 companies. I have my first investment going public soon too I'm excited
-to share more about then!
+to share more about it then!
 
 ## My thesis:
 <ul>
@@ -22,7 +22,7 @@ community, data science, consumer tech)</li>
 Here are a few I can disclose:
 
 <ul>
-  <li><a href="https://www.openinvest.com/">Open Invest early advisor</a></li>
+  <li><a href="https://www.openinvest.com/">Open Invest</a> early advisor</li>
   <li><a href="https://atomlimbs.com/">Atom Limbs</a></li>
   <li><a href="https://gumroad.com/">GumRoad</a></li>
   <li><a href="https://www.foresightmentalhealth.com/">Foresight</a></li>
