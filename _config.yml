@@ -33,12 +33,12 @@ gems:
 
 # Page List
 pages_list:
-  Coaching: '/coaching'
   About: '/about'
+  Coaching: '/coaching'
+  Investing: '/angel'
   Family band: '/familyband'
   Climbing: '/climbing'
   My better half: '/jane'
-  Angel Investing: '/angel'
 #  Recent work: '/recentwork'
   # Archive: '/archive'
   # Feed: '/index.html'
