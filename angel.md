@@ -11,21 +11,19 @@ to share more about it then!
 
 ## My thesis:
 <ul>
- <li>Invest in my areas of expertise (health, mental health, education, 
+ <li>Invest in my areas of expertise (health, mental health, education,
 community, data science, consumer tech)</li>
 <li>Invest in select bullish sectors I'm building expertise (environment, automation, crypto) </li>
  <li>Invest in incredible teams I can't say no to industry agnostic</li>
 </ul>
 
-## Portfolio 
+## Portfolio
 
 Here are a few I can disclose:
 
 <ul>
   <li><a href="https://www.openinvest.com/">Open Invest</a> early advisor</li>
-  <li><a href="https://atomlimbs.com/">Atom Limbs</a></li>
+  <li><a href="https://www.calm.com/">Calm</a></li>
   <li><a href="https://gumroad.com/">GumRoad</a></li>
   <li><a href="https://www.foresightmentalhealth.com/">Foresight</a></li>
-  <li><a href="https://livnao.com/">LiveNao</a></li>
-  <li><a href="https://www.atai.life/">ATAI Life Sciences</a></li>
 </ul>
