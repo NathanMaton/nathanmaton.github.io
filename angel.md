@@ -22,6 +22,10 @@ community, data science, consumer tech)</li>
 Here are a few I can disclose:
 
 <ul>
+  <li><a href="https://berachain.com/">Berachain</a></li>
+  <li><a href="https://www.victoriavr.com/">Victoria VR</a></li>
+  <li><a href="https://xostrucks.com/">XOS Trucks</a></li>
+  <li><a href ="https://atai.life/">ATAI Life sciences</a></li>
   <li><a href="https://www.openinvest.com/">Open Invest</a> early advisor</li>
   <li><a href="https://www.calm.com/">Calm</a></li>
   <li><a href="https://gumroad.com/">GumRoad</a></li>
