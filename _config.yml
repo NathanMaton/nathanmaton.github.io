@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               Nathan Maton - Coach, Group Facilitator, Outdoor lover
+title:               Nathan Maton - Process Consulting, Coach, Outdoor lover
 # tagline:             Portfolio
 url:                 http://nathanmaton.github.io
 paginate:            2
@@ -33,8 +33,8 @@ gems:
 
 # Page List
 pages_list:
-  About: '/about'
-  Coaching: '/coaching'
+#  About: '/about'
+#  Coaching: '/coaching'
   Investing: '/angel'
   Family band: '/familyband'
   Climbing: '/climbing'
