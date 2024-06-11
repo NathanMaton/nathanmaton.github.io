@@ -6,5 +6,5 @@ title: My better half - Jane Huston
 
 I'm very lucky to be married to <a href='https://www.linkedin.com/in/janehustonmph'>
 Jane Huston</a>. She's an incredible human
-who leads analytics at Pinterest, bakes, knits, 
+who leads analytics at Spring Health, bakes, knits, 
 and is a highlight of my life.
